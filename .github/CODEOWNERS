@@ -1,0 +1,16 @@
+/services/api/ @student1
+/services/worker/ @student1
+/services/auth/ @student1
+/services/debugger/ @student1
+/services/sandbox-manager/ @student3 @student5
+/shared/contracts.py @student1
+/shared/store_contracts.py @student1
+/shared/enums.py @student1
+/shared/celery.py @student1
+/shared/config.py @student1
+/shared/utils.py @student1
+/shared/__init__.py @student1
+/db/ @student2
+/docs/ @all
+/ci/ @student4
+/deploy/ @student3 @student4 @student5
